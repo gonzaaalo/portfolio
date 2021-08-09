@@ -275,7 +275,10 @@ h6 {
   background-image: url(./media/molar-tooth.png);
   background-color: white;
 }
-
+.post-wrapper .post.projects-icon .stem-overlay .icon {
+  background-image: url(./media/project.png);
+  background-color: white;
+}
 .post-wrapper .post .stem-overlay {
   position: absolute;
   top: 0px;
