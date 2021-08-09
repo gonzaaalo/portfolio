@@ -186,6 +186,9 @@ h6 {
 .stem-wrapper.color-red .stem-background {
   background: #FF8066;
 }
+.stem-wrapper.color-purple .stem-background {
+  background: #767fad;
+}
 .stem-wrapper .stem,
 .stem-wrapper .stem-background {
   position: absolute;
@@ -276,7 +279,7 @@ h6 {
   background-color: white;
 }
 .post-wrapper .post.projects-icon .stem-overlay .icon {
-  background-image: url(./media/project.png);
+  background-image: url(./media/projects.png);
   background-color: white;
 }
 .post-wrapper .post .stem-overlay {
