@@ -28,6 +28,7 @@ h5,
 h6 {
   font-family: 'Comfortaa', cursive;
 }
+
 /*==========  Navbar  ==========*/
 .navbar {
   width: 100%;
@@ -313,6 +314,12 @@ h6 {
   font-size: 32px;
   line-height: 42px;
   margin: 0px 0px 15px 0px;
+}
+.bullet{
+  width: 13px !important;
+}
+ strong {
+  font-weight: bold ;
 }
 /*==========  Media queries  ==========*/
 @media only screen and (max-width: 1080px) {
